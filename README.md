@@ -33,7 +33,7 @@ A Made in Kitchen possui um modelo de negócio Marketplace que facilita o encont
 7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
 8. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
 
-# Restaurantes
+## Restaurantes
 
 1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
 2. Qual o nome do restaurante com a maior nota média?
